@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="634" height="83" viewBox="0 0 634 83">
+  <g id="linhas" transform="translate(512 -2193)">
+    <rect id="ret" width="3" height="83" transform="translate(-512 2193)" fill="#036079"/>
+    <rect id="ret-2" data-name="ret" width="253" height="3" transform="translate(-512 2193)" fill="#036079"/>
+    <rect id="ret-3" data-name="ret" width="3" height="83" transform="translate(119 2193)" fill="#036079"/>
+    <rect id="ret-4" data-name="ret" width="251" height="3" transform="translate(-131 2193)" fill="#036079"/>
+    <rect id="ret-5" data-name="ret" width="3" height="50" transform="translate(-197 2226)" fill="#036079"/>
+  </g>
+</svg>
